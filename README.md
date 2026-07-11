@@ -4,8 +4,6 @@ Sinan Olsson-Pasic — freelance software engineer · Sweden
 
 $ cat interests.txt
 compiler design · computational linguistics · numerical analysis · applied math
-
-$ ls languages/
 ```
 
 ![C](https://img.shields.io/badge/C-1b1f24?style=flat-square&logo=c&logoColor=A8B9CC)
