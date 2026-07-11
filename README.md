@@ -24,6 +24,7 @@ seenws   8086  97.6  <a href="https://github.com/seenws/mini-lisp-x86">mini-lisp
 $ ps aux | grep fun
 seenws    140   3.1  <a href="https://github.com/seenws/adofai-highway">adofai-highway</a> | C#/Unity | Scrolling note-highway mod for A Dance of Fire and Ice
 seenws   2012   2.7  <a href="https://github.com/seenws/prototype2plusplus">prototype2plusplus</a> | Lua | Difficulty overhaul for Prototype 2
+seenws   1997   0.0  <a href="https://github.com/seenws/chess-in-the-terminal">chess-in-the-terminal</a> | C99 | Lightweight chess engine that runs in any terminal
 </pre>
 
 <pre>
