@@ -15,7 +15,7 @@ compiler design · computational linguistics · numerical analysis · applied ma
 I build compilers, language tooling, and numerical code with a focus on performance, readability, and maintainability. I take pride in writing code from the ground up without dependencies.
 <pre>
 $ ps aux | grep building
-seenws   1957  99.9  <a href="https://github.com/seenws/gram.en">gram.en</a>        explainable grammatical analysis engine in Typescript
+seenws   1957  99.9  <a href="https://github.com/seenws/gram.en">gram.en</a>        explainable grammatical analysis engine in TypeScript
 seenws  31415  98.2  <a href="https://github.com/seenws/tinyblas">tinyblas</a>       minimal, dependency-free BLAS implementation in C99
 seenws   8086  97.6  <a href="https://github.com/seenws/mini-lisp-x86">mini-lisp-x86</a>  Common-Lisp-to-x86_64 compiler in C99
 </pre>
