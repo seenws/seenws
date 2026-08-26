@@ -7,7 +7,7 @@ compiler design · computational linguistics · numerical analysis · applied ma
 ```
 
 ![C](https://img.shields.io/badge/C-1b1f24?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&style=flat-square&logo=c&logoColor=A8B9CC)
 ![Python](https://img.shields.io/badge/Python-1b1f24?style=flat-square&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-1b1f24?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1b1f24?style=flat-square&logo=typescript&logoColor=3178C6)
