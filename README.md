@@ -2,6 +2,7 @@
 $ whoami
 Sinan Olsson-Pasic — independent software engineer · Sweden
 
+$ cat introduction.md
 I'm Sinan, an independent developer and generalist interested in building software
 that's fast, readable, and maintainable.
 
@@ -12,7 +13,7 @@ the author of gram.en, a grammatical analysis engine built using compiler techni
 Outside of that, you'll usually find me reading, playing video games, programming,
 or finding some new rabbit hole to build something around.
 
-$ cat interests.txt
+$ cat interests.md
 compiler design · computational linguistics · numerical analysis · applied mathematics
 ```
 
