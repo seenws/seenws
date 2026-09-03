@@ -24,7 +24,6 @@ compiler design · computational linguistics · numerical analysis · applied ma
 ![TypeScript](https://img.shields.io/badge/TypeScript-1b1f24?style=flat-square&logo=typescript&logoColor=3178C6)
 ![C#](https://img.shields.io/badge/C%23-1b1f24?style=flat-square&logo=dotnet&logoColor=A179DC)
 
-I build compilers, language tooling, and numerical code with a focus on performance, readability, and maintainability. I take pride in writing code from the ground up without dependencies.
 <pre>
 $ ps aux | grep building
 seenws   1957  99.9  <a href="https://github.com/seenws/gram.en">gram.en</a>        explainable grammatical analysis engine in TypeScript
