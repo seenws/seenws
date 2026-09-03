@@ -2,18 +2,20 @@
 $ whoami
 Sinan Olsson-Pasic — independent software engineer · Sweden
 
-I'm Sinan! I'm an independent developer and self-proclaimed polymath who enjoys building software
-with a focus on performance, readability, and maintainability.
+I'm Sinan, an independent developer and generalist interested in building software
+that's fast, readable, and maintainable.
 
-I enjoy building and tinkering with compilers,
-I am a web developer at Warbreaker.gg, a resource hub for Warriors in World of Warcraft,
-and the author of gram.en, a grammatical analysis engine with a compiler approach.
+I spend a lot of time tinkering with compilers and language tooling. I'm also a
+developer at Warbreaker.gg, a resource hub for Warriors in World of Warcraft, and
+the author of gram.en, a grammatical analysis engine built using compiler techniques.
 
-I enjoy reading, video games, and programming, and finding cool things to build!
+Outside of that, you'll usually find me reading, playing video games, programming,
+or finding some new rabbit hole to build something around.
 
 $ cat interests.txt
-compiler design · computational linguistics · numerical analysis · applied math
+compiler design · computational linguistics · numerical analysis · applied mathematics
 ```
+
 
 ![C](https://img.shields.io/badge/C-1b1f24?style=flat-square&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C%2B%2B-1b1f24?style=flat-square&logo=cplusplus&logoColor=00599C)
