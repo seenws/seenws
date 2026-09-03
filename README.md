@@ -1,6 +1,11 @@
 ```console
 $ whoami
-Sinan Olsson-Pasic — independent software engineer · Sweden 
+Sinan Olsson-Pasic — independent software engineer · Sweden
+
+I'm Sinan! I'm an independent developer and self-proclaimed polymath who enjoys building software with a focus on performance, readability, and maintainability.
+I enjoy building and tinkering with compilers, I am a web developer at Warbreaker.gg, a resource hub for Warriors in World of Warcraft, and the author of gram.en, a grammatical analysis engine with a compiler approach.
+
+I enjoy reading, video games, and programming, and finding cool things to build!
 
 $ cat interests.txt
 compiler design · computational linguistics · numerical analysis · applied math
