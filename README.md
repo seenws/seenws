@@ -3,8 +3,7 @@ $ whoami
 Sinan Olsson-Pasic — independent software engineer · Sweden
 
 $ cat introduction.md
-I'm Sinan, an independent developer and generalist interested in building software
-that's fast, readable, and maintainable.
+I'm Sinan, an independent developer and generalist interested in compilers and linguistics.
 
 I spend a lot of time tinkering with compilers and language tooling. I'm also a
 developer at Warbreaker.gg, a resource hub for Warriors in World of Warcraft, and
